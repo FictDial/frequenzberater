@@ -1,0 +1,6 @@
+output.tsv
+originaldict.tsv
+test.py
+text*.tsv
+output*.tsv
+.~lock.*
